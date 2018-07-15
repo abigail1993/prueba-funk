@@ -1,0 +1,1 @@
+document.getElementById("eltexto").innerHTML = "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Asperiores voluptatem tenetur ad eveniet magni molestiae, libero cumque ab, vero beatae iusto accusamus voluptatibus maiores ratione cupiditate ducimus quidem, sequi adipisci";

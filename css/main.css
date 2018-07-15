@@ -1,0 +1,20 @@
+#midiv {   
+    background-color: cyan;
+    border: 1px solid black;
+    height: 300px;
+    margin: 0 auto;
+    opacity: 0.5;
+    width: 60%;
+
+    animation-name: css;
+    animation-duration: 10s;
+}
+
+@keyframes css{    
+    from{background-color: yellow;}
+    to{background-color: red;}
+}
+
+h1 {
+    text-align: center;
+}
